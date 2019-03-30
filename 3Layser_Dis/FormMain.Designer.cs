@@ -222,7 +222,6 @@
             this.xóaDòngNàyToolStripMenuItem.Name = "xóaDòngNàyToolStripMenuItem";
             this.xóaDòngNàyToolStripMenuItem.Size = new System.Drawing.Size(150, 22);
             this.xóaDòngNàyToolStripMenuItem.Text = "Xóa Dòng Này";
-            //this.xóaDòngNàyToolStripMenuItem.Click += new System.EventHandler(this.xóaDòngNàyToolStripMenuItem_Click);
             // 
             // tp_hangtonkho
             // 
@@ -654,6 +653,7 @@
             this.dgv_khachhang_main.Name = "dgv_khachhang_main";
             this.dgv_khachhang_main.Size = new System.Drawing.Size(487, 379);
             this.dgv_khachhang_main.TabIndex = 23;
+            this.dgv_khachhang_main.Click += new System.EventHandler(this.dgv_khachhang_main_Click);
             // 
             // tp_nhacungcap
             // 
@@ -923,6 +923,7 @@
             this.tp_dangnhap.TabIndex = 0;
             this.tp_dangnhap.Text = "Đăng Nhập";
             this.tp_dangnhap.UseVisualStyleBackColor = true;
+            this.tp_dangnhap.Click += new System.EventHandler(this.tp_dangnhap_Click);
             // 
             // label8
             // 

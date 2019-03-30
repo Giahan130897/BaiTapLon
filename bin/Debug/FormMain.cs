@@ -952,8 +952,25 @@ namespace QLBH
             catch { return; }
         }
 
+        private void tp_dangnhap_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        int index;
+        private void dgv_khachhang_main_Click(object sender, EventArgs e)
+        {
+            index = dgv_khachhang_main.CurrentRow.Index;
+            tb_khachhang_tenkh.Text = dgv_khachhang_main.Rows[index].Cells[0].Value.ToString();
+            tb_khachhang_diachi.Text = dgv_khachhang_main.Rows[index].Cells[1].Value.ToString();
+            tb_khachhang_email.Text = dgv_khachhang_main.Rows[index].Cells[2].Value.ToString();
+            tb_khachhang_dienthoai.Text = dgv_khachhang_main.Rows[index].Cells[3].Value.ToString();
+            tb_khachhang_fax.Text = dgv_khachhang_main.Rows[index].Cells[4].Value.ToString();
+        }
+
      
         
     }
+
     }
 
