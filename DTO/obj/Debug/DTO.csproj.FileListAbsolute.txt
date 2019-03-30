@@ -1,0 +1,25 @@
+D:\3Layser_Dis\bin\Debug\DTO.dll
+D:\3Layser_Dis\bin\Debug\DTO.pdb
+D:\3Layser_Dis\DTO\obj\Debug\ResolveAssemblyReference.cache
+D:\3Layser_Dis\DTO\obj\Debug\DTO.dll
+D:\3Layser_Dis\DTO\obj\Debug\DTO.pdb
+D:\Hoang\3Layser_Dis\bin\Debug\DTO.dll
+D:\Hoang\3Layser_Dis\bin\Debug\DTO.pdb
+D:\Hoang\3Layser_Dis\DTO\obj\Debug\ResolveAssemblyReference.cache
+D:\Hoang\3Layser_Dis\DTO\obj\Debug\DTO.dll
+D:\Hoang\3Layser_Dis\DTO\obj\Debug\DTO.pdb
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\bin\Debug\DTO.dll
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\bin\Debug\DTO.pdb
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\DTO\obj\Debug\ResolveAssemblyReference.cache
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\DTO\obj\Debug\DTO.dll
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\DTO\obj\Debug\DTO.pdb
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\bin\Debug\DTO.dll
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\bin\Debug\DTO.pdb
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\DTO\obj\Debug\DTO.dll
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\DTO\obj\Debug\DTO.pdb
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Bài Tập Lớn\3Layser_Dis\bin\Debug\DTO.dll
+D:\Bài Tập Lớn\3Layser_Dis\bin\Debug\DTO.pdb
+D:\Bài Tập Lớn\3Layser_Dis\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Bài Tập Lớn\3Layser_Dis\DTO\obj\Debug\DTO.dll
+D:\Bài Tập Lớn\3Layser_Dis\DTO\obj\Debug\DTO.pdb

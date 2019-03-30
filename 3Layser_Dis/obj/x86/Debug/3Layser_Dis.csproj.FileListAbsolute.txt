@@ -1,0 +1,41 @@
+D:\3Layser_Dis\bin\Debug\3Layser_Dis.exe.config
+D:\3Layser_Dis\bin\Debug\3Layser_Dis.exe
+D:\3Layser_Dis\bin\Debug\3Layser_Dis.pdb
+D:\3Layser_Dis\3Layser_Dis\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\3Layser_Dis\3Layser_Dis\obj\x86\Debug\_3Layser_Dis.Form1.resources
+D:\3Layser_Dis\3Layser_Dis\obj\x86\Debug\_3Layser_Dis.Properties.Resources.resources
+D:\3Layser_Dis\3Layser_Dis\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\3Layser_Dis\3Layser_Dis\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\3Layser_Dis\3Layser_Dis\obj\x86\Debug\3Layser_Dis.exe
+D:\3Layser_Dis\3Layser_Dis\obj\x86\Debug\3Layser_Dis.pdb
+D:\Hoang\3Layser_Dis\bin\Debug\3Layser_Dis.exe.config
+D:\Hoang\3Layser_Dis\3Layser_Dis\obj\x86\Debug\3Layser_Dis.exe
+D:\Hoang\3Layser_Dis\3Layser_Dis\obj\x86\Debug\3Layser_Dis.pdb
+D:\Hoang\3Layser_Dis\bin\Debug\3Layser_Dis.exe
+D:\Hoang\3Layser_Dis\bin\Debug\3Layser_Dis.pdb
+D:\Hoang\3Layser_Dis\3Layser_Dis\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Hoang\3Layser_Dis\3Layser_Dis\obj\x86\Debug\_3Layser_Dis.Form1.resources
+D:\Hoang\3Layser_Dis\3Layser_Dis\obj\x86\Debug\_3Layser_Dis.Properties.Resources.resources
+D:\Hoang\3Layser_Dis\3Layser_Dis\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Hoang\3Layser_Dis\3Layser_Dis\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\bin\Debug\3Layser_Dis.exe.config
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\3Layser_Dis\obj\x86\Debug\3Layser_Dis.exe
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\3Layser_Dis\obj\x86\Debug\3Layser_Dis.pdb
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\bin\Debug\3Layser_Dis.exe
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\bin\Debug\3Layser_Dis.pdb
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\3Layser_Dis\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\3Layser_Dis\obj\x86\Debug\_3Layser_Dis.Form1.resources
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\3Layser_Dis\obj\x86\Debug\_3Layser_Dis.Properties.Resources.resources
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\3Layser_Dis\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\3Layser_Dis\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\3Layser_Dis\obj\x86\Debug\_3Layser_Dis.FormSanPham.resources
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\bin\Debug\3Layser_Dis.exe.config
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\bin\Debug\3Layser_Dis.exe
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\bin\Debug\3Layser_Dis.pdb
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\3Layser_Dis\obj\x86\Debug\3Layser_Dis.csprojResolveAssemblyReference.cache
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\3Layser_Dis\obj\x86\Debug\_3Layser_Dis.Form1.resources
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\3Layser_Dis\obj\x86\Debug\_3Layser_Dis.FormSanPham.resources
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\3Layser_Dis\obj\x86\Debug\_3Layser_Dis.Properties.Resources.resources
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\3Layser_Dis\obj\x86\Debug\3Layser_Dis.csproj.GenerateResource.Cache
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\3Layser_Dis\obj\x86\Debug\3Layser_Dis.exe
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\3Layser_Dis\obj\x86\Debug\3Layser_Dis.pdb

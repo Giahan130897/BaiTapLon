@@ -1,0 +1,30 @@
+D:\3Layser_Dis\bin\Debug\DAO.dll
+D:\3Layser_Dis\bin\Debug\DAO.pdb
+D:\3Layser_Dis\DAO\obj\Debug\ResolveAssemblyReference.cache
+D:\3Layser_Dis\DAO\obj\Debug\DAO.dll
+D:\3Layser_Dis\DAO\obj\Debug\DAO.pdb
+D:\Hoang\3Layser_Dis\bin\Debug\DAO.dll
+D:\Hoang\3Layser_Dis\bin\Debug\DAO.pdb
+D:\Hoang\3Layser_Dis\DAO\obj\Debug\ResolveAssemblyReference.cache
+D:\Hoang\3Layser_Dis\DAO\obj\Debug\DAO.dll
+D:\Hoang\3Layser_Dis\DAO\obj\Debug\DAO.pdb
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\bin\Debug\DAO.dll
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\bin\Debug\DAO.pdb
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\DAO\obj\Debug\ResolveAssemblyReference.cache
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\DAO\obj\Debug\DAO.dll
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\DAO\obj\Debug\DAO.pdb
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\bin\Debug\DAO.dll
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\bin\Debug\DAO.pdb
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\DAO\obj\Debug\DAO.dll
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\DAO\obj\Debug\DAO.pdb
+D:\Bài Tập Lớn\3Layser_Dis\bin\Debug\DAO.dll
+D:\Bài Tập Lớn\3Layser_Dis\bin\Debug\DAO.pdb
+D:\Bài Tập Lớn\3Layser_Dis\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Bài Tập Lớn\3Layser_Dis\DAO\obj\Debug\DAO.dll
+D:\Bài Tập Lớn\3Layser_Dis\DAO\obj\Debug\DAO.pdb
+C:\Users\vuphu\OneDrive\Máy tính\VoGiaHan_DoanDuPhuongKim_BT Lớn_QLBH\bin\Debug\DAO.dll
+C:\Users\vuphu\OneDrive\Máy tính\VoGiaHan_DoanDuPhuongKim_BT Lớn_QLBH\bin\Debug\DAO.pdb
+C:\Users\vuphu\OneDrive\Máy tính\VoGiaHan_DoanDuPhuongKim_BT Lớn_QLBH\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\vuphu\OneDrive\Máy tính\VoGiaHan_DoanDuPhuongKim_BT Lớn_QLBH\DAO\obj\Debug\DAO.dll
+C:\Users\vuphu\OneDrive\Máy tính\VoGiaHan_DoanDuPhuongKim_BT Lớn_QLBH\DAO\obj\Debug\DAO.pdb

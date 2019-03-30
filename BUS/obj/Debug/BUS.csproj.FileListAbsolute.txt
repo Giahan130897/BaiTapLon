@@ -1,0 +1,30 @@
+D:\3Layser_Dis\bin\Debug\BUS.dll
+D:\3Layser_Dis\bin\Debug\BUS.pdb
+D:\3Layser_Dis\BUS\obj\Debug\ResolveAssemblyReference.cache
+D:\3Layser_Dis\BUS\obj\Debug\BUS.dll
+D:\3Layser_Dis\BUS\obj\Debug\BUS.pdb
+D:\Hoang\3Layser_Dis\bin\Debug\BUS.dll
+D:\Hoang\3Layser_Dis\bin\Debug\BUS.pdb
+D:\Hoang\3Layser_Dis\BUS\obj\Debug\ResolveAssemblyReference.cache
+D:\Hoang\3Layser_Dis\BUS\obj\Debug\BUS.dll
+D:\Hoang\3Layser_Dis\BUS\obj\Debug\BUS.pdb
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\bin\Debug\BUS.dll
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\bin\Debug\BUS.pdb
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\BUS\obj\Debug\ResolveAssemblyReference.cache
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\BUS\obj\Debug\BUS.dll
+D:\QUan ly nhan vien\buổi 7- 3 layer\3Layser_Dis\BUS\obj\Debug\BUS.pdb
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\bin\Debug\BUS.dll
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\bin\Debug\BUS.pdb
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\BUS\obj\Debug\BUS.dll
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\BUS\obj\Debug\BUS.pdb
+D:\Bài Tập Lớn\3Layser_Dis\bin\Debug\BUS.dll
+D:\Bài Tập Lớn\3Layser_Dis\bin\Debug\BUS.pdb
+D:\Bài Tập Lớn\3Layser_Dis\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Bài Tập Lớn\3Layser_Dis\BUS\obj\Debug\BUS.dll
+D:\Bài Tập Lớn\3Layser_Dis\BUS\obj\Debug\BUS.pdb
+C:\Users\vuphu\OneDrive\Máy tính\VoGiaHan_DoanDuPhuongKim_BT Lớn_QLBH\bin\Debug\BUS.dll
+C:\Users\vuphu\OneDrive\Máy tính\VoGiaHan_DoanDuPhuongKim_BT Lớn_QLBH\bin\Debug\BUS.pdb
+C:\Users\vuphu\OneDrive\Máy tính\VoGiaHan_DoanDuPhuongKim_BT Lớn_QLBH\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\vuphu\OneDrive\Máy tính\VoGiaHan_DoanDuPhuongKim_BT Lớn_QLBH\BUS\obj\Debug\BUS.dll
+C:\Users\vuphu\OneDrive\Máy tính\VoGiaHan_DoanDuPhuongKim_BT Lớn_QLBH\BUS\obj\Debug\BUS.pdb

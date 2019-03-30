@@ -1,0 +1,14 @@
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\bin\Debug\QLBH.exe.config
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\bin\Debug\QLBH.exe
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\bin\Debug\QLBH.pdb
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\3Layser_Dis\obj\x86\Debug\QLBH.csprojResolveAssemblyReference.cache
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\3Layser_Dis\obj\x86\Debug\QLBH.Form1.resources
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\3Layser_Dis\obj\x86\Debug\QLBH.FormMain.resources
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\3Layser_Dis\obj\x86\Debug\QLBH.FormSanPham.resources
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\3Layser_Dis\obj\x86\Debug\_QLBH.Properties.Resources.resources
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\3Layser_Dis\obj\x86\Debug\QLBH.csproj.GenerateResource.Cache
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\3Layser_Dis\obj\x86\Debug\QLBH.exe
+E:\[P] Project\A DH Mo\LTCSDL\3Layser_Dis\3Layser_Dis\obj\x86\Debug\QLBH.pdb
+D:\Bài Tập Lớn\3Layser_Dis\bin\Debug\QLBH.exe.config
+D:\Bài Tập Lớn\3Layser_Dis\3Layser_Dis\obj\x86\Debug\QLBH.exe
+D:\Bài Tập Lớn\3Layser_Dis\3Layser_Dis\obj\x86\Debug\QLBH.pdb
