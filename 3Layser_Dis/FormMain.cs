@@ -961,12 +961,82 @@ namespace QLBH
         private void dgv_khachhang_main_Click(object sender, EventArgs e)
         {
             index = dgv_khachhang_main.CurrentRow.Index;
-            tb_khachhang_tenkh.Text = dgv_khachhang_main.Rows[index].Cells[0].Value.ToString();
-            tb_khachhang_diachi.Text = dgv_khachhang_main.Rows[index].Cells[1].Value.ToString();
-            tb_khachhang_email.Text = dgv_khachhang_main.Rows[index].Cells[2].Value.ToString();
-            tb_khachhang_dienthoai.Text = dgv_khachhang_main.Rows[index].Cells[3].Value.ToString();
-            tb_khachhang_fax.Text = dgv_khachhang_main.Rows[index].Cells[4].Value.ToString();
+            tb_khachhang_tenkh.Text = dgv_khachhang_main.Rows[index].Cells[1].Value.ToString();
+            tb_khachhang_diachi.Text = dgv_khachhang_main.Rows[index].Cells[2].Value.ToString();
+            tb_khachhang_email.Text = dgv_khachhang_main.Rows[index].Cells[3].Value.ToString();
+            tb_khachhang_dienthoai.Text = dgv_khachhang_main.Rows[index].Cells[4].Value.ToString();
+            tb_khachhang_fax.Text = dgv_khachhang_main.Rows[index].Cells[5].Value.ToString();
         }
+        int index1;
+        private void dgv_loaihang_main_Click(object sender, EventArgs e)
+        {
+            index1 = dgv_loaihang_main.CurrentRow.Index;
+            tb_loaihang_tenlh.Text= dgv_loaihang_main.Rows[index1].Cells[1].Value.ToString();
+
+        }
+        int index2;
+        private void dgv_nhacungcap_main_Click(object sender, EventArgs e)
+        {
+            index2 = dgv_nhacungcap_main.CurrentRow.Index;
+            tb_nhacungcap_tenncc.Text = dgv_nhacungcap_main.Rows[index2].Cells[1].Value.ToString();
+            tb_nhacungcap_diachi.Text = dgv_nhacungcap_main.Rows[index2].Cells[2].Value.ToString();
+            tb_nhacungcap_email.Text = dgv_nhacungcap_main.Rows[index2].Cells[3].Value.ToString();
+            tb_nhacungcap_dienthoai.Text = dgv_nhacungcap_main.Rows[index2].Cells[4].Value.ToString();
+            tb_nhacungcap_fax.Text = dgv_nhacungcap_main.Rows[index2].Cells[5].Value.ToString();
+        }
+
+        int index3;
+        private void dgv_mathang_main_Click(object sender, EventArgs e)
+        {
+            index3 = dgv_mathang_main.CurrentRow.Index;
+            tb_mathang_tenmh.Text = dgv_mathang_main.Rows[index3].Cells[1].Value.ToString();
+            tb_mathang_soluong.Text = dgv_mathang_main.Rows[index3].Cells[4].Value.ToString();
+            tb_mathang_gianhap.Text = dgv_mathang_main.Rows[index3].Cells[5].Value.ToString();
+            tb_mathang_giaban.Text = dgv_mathang_main.Rows[index3].Cells[6].Value.ToString();
+        }
+
+        
+
+        //private void ketnoi()
+        //{
+        //    try
+        //    {
+        //        SqlConnection kn = new SqlConnection(@"Data Source=.\SQL2014;Initial Catalog=QLBH;Integrated Security=True");
+        //        kn.Open();
+        //        string sql = "select * from KHACHHANG";
+        //        SqlCommand commandsql = new SqlCommand(sql, kn); //th?c thi các câu l?nh trong sql
+        //        SqlDataAdapter com = new SqlDataAdapter(commandsql); // V?n chuy?n d? li?u
+        //        DataTable table = new DataTable(); // t?o b?ng ?o trong h? th?ng
+        //        com.Fill(table); // d? d? li?u vào b?ng ?o
+        //        dgv_khachhang_main.DataSource = table; // b?ng ?o du?c dua vào dataGridview
+        //    }
+        //    catch
+        //    {
+        //        MessageBox.Show("L?i k?t n?i vui lòng ki?m tra l?i!");
+        //    }
+        //    finally
+        //    {
+        //        SqlConnection kn = new SqlConnection(@"Data Source=.\SQL2014;Initial Catalog=QLBH;Integrated Security=True");
+        //        kn.Close();
+        //    }
+
+        //}
+
+        //string xoakhachhang;
+        //string xoa;
+        //private void btn_khachhang_xoa_Click(object sender, EventArgs e)
+        //{
+        //    SqlConnection kn = new SqlConnection(@"Data Source=.\SQL2014;Initial Catalog=QLBH;Integrated Security=True");
+        //    kn.Open();
+        //    xoakhachhang = "delete KHACHHANG where MAKHACHHANG = '" + tb_khachhang_tenkh + "' ";
+        //    xoa = "delete HOADONXUAT where MAKHACHHANG = '" + tb_khachhang_tenkh + "' ";
+        //    SqlCommand comm = new SqlCommand(xoakhachhang, kn);
+        //    SqlCommand conn = new SqlCommand(xoa, kn);
+        //    comm.ExecuteNonQuery();
+        //    conn.ExecuteNonQuery();
+        //    ketnoi();
+            
+        //}
 
      
         

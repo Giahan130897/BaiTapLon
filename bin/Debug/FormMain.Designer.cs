@@ -487,6 +487,7 @@
             this.dgv_mathang_main.Size = new System.Drawing.Size(487, 379);
             this.dgv_mathang_main.TabIndex = 15;
             this.dgv_mathang_main.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgv_mathang_main_CellDoubleClick);
+            this.dgv_mathang_main.Click += new System.EventHandler(this.dgv_mathang_main_Click);
             // 
             // tp_khachhang
             // 
@@ -822,6 +823,7 @@
             this.dgv_nhacungcap_main.Name = "dgv_nhacungcap_main";
             this.dgv_nhacungcap_main.Size = new System.Drawing.Size(487, 374);
             this.dgv_nhacungcap_main.TabIndex = 15;
+            this.dgv_nhacungcap_main.Click += new System.EventHandler(this.dgv_nhacungcap_main_Click);
             // 
             // tp_loaihang
             // 
@@ -908,6 +910,7 @@
             this.dgv_loaihang_main.Name = "dgv_loaihang_main";
             this.dgv_loaihang_main.Size = new System.Drawing.Size(487, 374);
             this.dgv_loaihang_main.TabIndex = 7;
+            this.dgv_loaihang_main.Click += new System.EventHandler(this.dgv_loaihang_main_Click);
             // 
             // tp_dangnhap
             // 
